@@ -5,7 +5,7 @@ import string
 import os
 
 color=0x00ffe6
-token = "MTE5MjkxNTUzMDg0NDIxMzM4OA.G0UP2B.7h9SZdYjXYWxzh_ZlTgT3gWP4UdjYbUBORvu54"
+token = ""
 client = commands.Bot(command_prefix=".", intents=discord.Intents.all(), help_command=None)
 owner = [1182014680735166597]
 
