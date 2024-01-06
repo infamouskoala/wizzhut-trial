@@ -5,6 +5,5 @@
 
 # PREVIEW
 - One of the bots is to generate and manage the backend and the other bot is to nuke the given server. Both the bots can check the auth, the nuker can only read it whereas the backend bot can append, edit and read the file and even delete the files and remake everything
- 
-![Alt text](img\image-1.png)
-![Alt text](img\image.png)
+![image](img/image-1.png)
+![image](img/image.png)
